@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Guess the Flag</string>
+    <string name="armenia">Армения</string>
+    <string name="canada">Канада</string>
+    <string name="chile">Чили</string>
+    <string name="china">Китай</string>
+    <string name="denmark">Дания</string>
+    <string name="egypt">Египет</string>
+    <string name="georgia">Грузия</string>
+    <string name="germany">Германия</string>
+    <string name="greece">Греция</string>
+    <string name="israel">Израиль</string>
+    <string name="italy">Италия</string>
+    <string name="japan">Япония</string>
+    <string name="kazakhstan">Казахстан</string>
+    <string name="latvia">Латвия</string>
+    <string name="lithuania">Литва</string>
+    <string name="mexico">Мексика</string>
+    <string name="moldova">Молдова</string>
+    <string name="nepal">Непал</string>
+    <string name="nicaragua">Никарагуа</string>
+    <string name="norway">Норвегия</string>
+    <string name="peru">Перу</string>
+    <string name="philippines">Филипины</string>
+    <string name="romania">Румыния</string>
+    <string name="russian_empire">Российская Империя</string>
+    <string name="serbia">Сербия</string>
+    <string name="south_korea">Южная Корея</string>
+    <string name="tajikistan">Таджикистан</string>
+    <string name="uk">Англия</string>
+    <string name="usa">США</string>
+    <string name="vietnam">Вьетнам</string>
+</resources>
